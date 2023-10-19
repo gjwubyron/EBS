@@ -1,12 +1,13 @@
 from loader import Loader
+from evaluater import Evaluator
 from nli import NLI
 import pandas as pd
 
 def main():
-
+    dataset = "pomt"
     # load data
-    loader = Loader("pomt")
-    data = loader.load()
+    loader = Loader(dataset)
+    data, labels = loader.load()
     
     nli = NLI()
     predictions = nli.predict(data[['claim', 'hypothesis']])
@@ -15,8 +16,13 @@ def main():
     predictions_df['claimId'] = data['claimId']
 
     # save predictions
-    predictions_df.to_csv("result/predictions.csv", index=False)
+    predictions_df.to_csv(f"result/{dataset}_predictions.csv", index=False)
 
+    # Evaluate
+    evaluator = Evaluator(data, labels)
+    f1_macro, f1_micro = evaluator.evaluate(predictions_df)
+    print(f"F1 macro: {f1_macro}")
+    print(f"F1 micro: {f1_micro}")
 
 if __name__ == "__main__":
     main()

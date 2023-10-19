@@ -3,12 +3,12 @@ import numpy as np
 import pickle
 
 class Loader:
-    def __init__(self, data_path):
+    def __init__(self, dataset):
         base_path = "multi_fc_publicdata/"
-        self.labels = pickle.load(open(f"{base_path}{data_path}/{data_path}_labels.pkl", "rb"))
-        data = pd.read_csv(f"{base_path}{data_path}/{data_path}.tsv",
+        self.labels = pickle.load(open(f"{base_path}{dataset}/{dataset}_labels.pkl", "rb"))
+        data = pd.read_csv(f"{base_path}{dataset}/{dataset}.tsv",
                                      sep='\t', header=None)
-        index_splits = pickle.load(open(f"{base_path}{data_path}/{data_path}_index_split.pkl", "rb"))
+        index_splits = pickle.load(open(f"{base_path}{dataset}/{dataset}_index_split.pkl", "rb"))
         test_index = index_splits[2]
         self.test_data = data.iloc[test_index]
         # only keep the first 3 columns and column 6
@@ -18,7 +18,6 @@ class Loader:
 
     def generate_hypotheses(self):
         hypotheses = []
-        print(self.labels)
         for label in self.labels:
             hypotheses.append(f"This claim is {label}")
         return hypotheses
@@ -29,7 +28,7 @@ class Loader:
         data = []
         for _, row in self.test_data.iterrows():
             for h in hypotheses:
-                data.append([row['claimId'], row['claim'], h, row['speaker']])
-        data = pd.DataFrame(data, columns=['claimId', 'claim', 'hypothesis', 'speaker'])
-        return data
+                data.append([row['claimId'], row['claim'], h, row['speaker'], row['label']])
+        data = pd.DataFrame(data, columns=['claimId', 'claim', 'hypothesis', 'speaker', 'label'])
+        return data, self.labels
         
