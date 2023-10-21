@@ -16,3 +16,4 @@ evaluator = Evaluator(data, labels)
 f1_macro, f1_micro = evaluator.evaluate(predictions_df)
 print(f"F1 macro: {f1_macro}")
 print(f"F1 micro: {f1_micro}")
+

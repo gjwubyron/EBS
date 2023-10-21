@@ -19,8 +19,6 @@ class Evaluator:
     def evaluate(self, predictions_df):
         predictions = self.assign_label(predictions_df)
         merged = pd.merge(predictions, self.ground_truth, on='claimId')
-        # show if merged contains nan
-        print(merged.isnull().values.any())
         merged['label'] = merged['label'].apply(lambda x: self.labels.index(x))
         merged['label_pred'] = merged['label_pred'].apply(lambda x: self.labels.index(x))
         f1_maro = f1_score(merged['label'], merged['label_pred'], average='macro')

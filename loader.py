@@ -11,9 +11,7 @@ class Loader:
         index_splits = pickle.load(open(f"{base_path}{dataset}/{dataset}_index_split.pkl", "rb"))
         test_index = index_splits[2]
         self.test_data = data.iloc[test_index]
-        # only keep the first 3 columns and column 6
         self.test_data = self.test_data.iloc[:, [0, 1, 2, 6]]
-        # rename columns
         self.test_data.columns = ['claimId', 'claim', 'label', 'speaker']
 
     def generate_hypotheses(self):

@@ -2,9 +2,14 @@ from loader import Loader
 from evaluater import Evaluator
 from nli import NLI
 import pandas as pd
+import argparse
 
 def main():
-    dataset = "pomt"
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default="snes", help="dataset to use")
+    args = parser.parse_args()
+
+    dataset = args.dataset
     # load data
     loader = Loader(dataset)
     data, labels = loader.load()
@@ -26,5 +31,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    
