@@ -4,9 +4,10 @@ import pickle
 from sklearn.metrics import f1_score
 
 class Evaluator:
-    def __init__(self, data, labels):
+    def __init__(self, data, labels, dataset):
         self.ground_truth = data[['claimId', 'label']]
         self.labels = labels
+        self.dataset = dataset
 
     def assign_label(self, predictions_df):
         predictions = []
@@ -14,6 +15,8 @@ class Evaluator:
             max_index = np.argmax(group['entailment_prob'])
             predictions.append([claimId, self.labels[max_index]])
         predictions = pd.DataFrame(predictions, columns=['claimId', 'label_pred'])
+        # save predictions
+        predictions.to_csv(f"result/{self.dataset}_labels.csv", index=False)
         return predictions
 
     def evaluate(self, predictions_df):

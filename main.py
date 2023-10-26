@@ -24,7 +24,7 @@ def main():
     predictions_df.to_csv(f"result/{dataset}_predictions.csv", index=False)
 
     # Evaluate
-    evaluator = Evaluator(data, labels)
+    evaluator = Evaluator(data, labels, dataset)
     f1_macro, f1_micro = evaluator.evaluate(predictions_df)
     print(f"F1 macro: {f1_macro}")
     print(f"F1 micro: {f1_micro}")

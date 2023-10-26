@@ -1,0 +1,1015 @@
+claimId,label_pred
+snes-00004,mostly false
+snes-00013,mostly false
+snes-00019,mostly false
+snes-00026,mostly false
+snes-00028,mixture
+snes-00030,mixture
+snes-00042,mostly true
+snes-00045,mostly false
+snes-00066,mostly true
+snes-00076,mostly true
+snes-00080,mostly false
+snes-00090,mostly false
+snes-00095,mostly true
+snes-00099,mostly true
+snes-00113,mostly true
+snes-00126,mostly true
+snes-00134,false
+snes-00138,false
+snes-00145,false
+snes-00146,mostly false
+snes-00174,mostly false
+snes-00180,mixture
+snes-00197,mostly false
+snes-00207,mixture
+snes-00208,mostly true
+snes-00218,true
+snes-00222,mixture
+snes-00229,mixture
+snes-00230,false
+snes-00259,false
+snes-00260,mostly true
+snes-00269,mostly true
+snes-00276,mostly false
+snes-00277,mostly true
+snes-00278,mixture
+snes-00292,false
+snes-00295,false
+snes-00298,mostly false
+snes-00310,mostly true
+snes-00318,mostly true
+snes-00327,mostly true
+snes-00332,mixture
+snes-00333,mostly false
+snes-00339,mostly false
+snes-00344,mixture
+snes-00346,mixture
+snes-00356,mostly false
+snes-00360,mostly true
+snes-00361,mostly true
+snes-00374,mostly false
+snes-00376,mostly false
+snes-00382,mixture
+snes-00383,mostly false
+snes-00408,mostly false
+snes-00416,false
+snes-00423,false
+snes-00426,mostly false
+snes-00428,mostly false
+snes-00433,mostly true
+snes-00453,false
+snes-00454,mostly false
+snes-00455,mostly false
+snes-00466,mostly false
+snes-00471,mostly false
+snes-00485,mixture
+snes-00489,mixture
+snes-00490,mostly true
+snes-00495,mostly false
+snes-00496,mostly false
+snes-00500,mostly false
+snes-00505,mixture
+snes-00508,mostly true
+snes-00518,false
+snes-00531,mostly true
+snes-00539,mostly false
+snes-00555,mostly false
+snes-00558,mixture
+snes-00559,mostly false
+snes-00568,mostly true
+snes-00571,mixture
+snes-00574,mostly true
+snes-00582,mostly false
+snes-00588,mixture
+snes-00589,mostly false
+snes-00593,mostly true
+snes-00595,mixture
+snes-00601,mostly true
+snes-00609,mostly false
+snes-00613,mostly false
+snes-00632,mostly false
+snes-00633,mostly false
+snes-00638,mostly false
+snes-00642,mostly false
+snes-00643,mostly true
+snes-00647,false
+snes-00655,mostly false
+snes-00671,false
+snes-00672,mostly true
+snes-00673,mostly true
+snes-00680,mostly false
+snes-00682,mostly false
+snes-00694,mixture
+snes-00700,mostly false
+snes-00701,mixture
+snes-00716,mostly false
+snes-00719,mixture
+snes-00720,mostly true
+snes-00723,mostly true
+snes-00747,mostly false
+snes-00749,mostly false
+snes-00753,mostly false
+snes-00755,mostly false
+snes-00757,false
+snes-00758,mostly true
+snes-00764,mostly true
+snes-00767,mostly true
+snes-00781,mixture
+snes-00784,mostly false
+snes-00785,false
+snes-00805,mostly true
+snes-00808,mixture
+snes-00810,mostly false
+snes-00821,mostly false
+snes-00823,mostly false
+snes-00826,mostly false
+snes-00829,mostly false
+snes-00835,mixture
+snes-00838,false
+snes-00856,mostly false
+snes-00863,mostly false
+snes-00865,mostly false
+snes-00868,mostly false
+snes-00875,mostly true
+snes-00886,mostly false
+snes-00890,mostly false
+snes-00891,mostly false
+snes-00896,mixture
+snes-00897,mostly false
+snes-00901,mixture
+snes-00902,mostly true
+snes-00907,false
+snes-00909,mostly false
+snes-00930,mostly false
+snes-00936,false
+snes-00941,mostly false
+snes-00942,mostly false
+snes-00945,mostly false
+snes-00946,mostly false
+snes-00952,mostly false
+snes-00953,mixture
+snes-00958,mostly false
+snes-00961,false
+snes-00966,mostly false
+snes-00968,false
+snes-00974,mostly true
+snes-00996,mostly true
+snes-00999,mostly false
+snes-01008,mostly true
+snes-01017,mostly false
+snes-01018,false
+snes-01020,mostly true
+snes-01039,false
+snes-01044,mostly true
+snes-01045,mostly false
+snes-01046,mostly false
+snes-01051,mostly true
+snes-01052,mostly true
+snes-01055,mostly false
+snes-01060,mostly true
+snes-01071,false
+snes-01072,mixture
+snes-01074,false
+snes-01075,mostly true
+snes-01080,mostly false
+snes-01082,mostly true
+snes-01096,mostly false
+snes-01097,mostly true
+snes-01109,mostly false
+snes-01121,mostly true
+snes-01128,false
+snes-01134,mixture
+snes-01144,mostly false
+snes-01146,mostly false
+snes-01150,mixture
+snes-01160,mostly false
+snes-01170,mixture
+snes-01173,mostly false
+snes-01197,mostly false
+snes-01198,mostly false
+snes-01204,mixture
+snes-01208,mostly false
+snes-01221,mostly true
+snes-01224,mostly false
+snes-01228,mostly true
+snes-01246,mostly false
+snes-01255,mixture
+snes-01257,false
+snes-01263,mostly false
+snes-01287,mostly false
+snes-01292,false
+snes-01293,mostly false
+snes-01300,mostly false
+snes-01301,mostly false
+snes-01308,mostly false
+snes-01315,mostly false
+snes-01316,false
+snes-01329,mostly false
+snes-01337,mostly false
+snes-01346,mostly false
+snes-01350,false
+snes-01351,mostly false
+snes-01358,mostly false
+snes-01378,mostly false
+snes-01385,mostly true
+snes-01393,mostly false
+snes-01401,mixture
+snes-01419,mostly false
+snes-01420,mostly true
+snes-01421,mostly false
+snes-01437,mostly false
+snes-01438,mostly false
+snes-01442,mostly false
+snes-01446,mostly false
+snes-01451,mostly false
+snes-01454,mostly true
+snes-01457,false
+snes-01459,mostly false
+snes-01470,mostly false
+snes-01478,mixture
+snes-01483,mostly false
+snes-01485,mixture
+snes-01506,false
+snes-01508,mixture
+snes-01513,mixture
+snes-01516,false
+snes-01519,mostly false
+snes-01522,mostly true
+snes-01526,false
+snes-01529,mixture
+snes-01532,mixture
+snes-01548,mostly false
+snes-01551,mixture
+snes-01552,false
+snes-01559,mostly true
+snes-01560,mixture
+snes-01566,mostly false
+snes-01570,mostly false
+snes-01571,mostly true
+snes-01580,mostly false
+snes-01585,false
+snes-01596,mostly false
+snes-01601,mixture
+snes-01606,mixture
+snes-01611,mostly false
+snes-01614,mixture
+snes-01628,false
+snes-01637,true
+snes-01652,mostly true
+snes-01665,mostly false
+snes-01668,mostly false
+snes-01682,mixture
+snes-01688,mostly true
+snes-01690,mostly false
+snes-01693,mostly false
+snes-01701,mostly false
+snes-01711,mostly false
+snes-01712,mostly false
+snes-01713,mixture
+snes-01720,mostly false
+snes-01727,mostly true
+snes-01728,mixture
+snes-01735,mostly false
+snes-01737,false
+snes-01759,mostly true
+snes-01763,mostly true
+snes-01765,mostly false
+snes-01768,mostly true
+snes-01771,mostly false
+snes-01776,mixture
+snes-01778,mostly true
+snes-01790,mostly false
+snes-01797,mostly false
+snes-01801,mostly false
+snes-01807,mostly false
+snes-01809,mixture
+snes-01826,mostly false
+snes-01829,mostly false
+snes-01836,mostly false
+snes-01842,mostly true
+snes-01850,mostly false
+snes-01853,mostly true
+snes-01854,false
+snes-01867,mostly true
+snes-01873,false
+snes-01877,mixture
+snes-01908,false
+snes-01922,mostly false
+snes-01930,mostly false
+snes-01935,mostly false
+snes-01951,mostly true
+snes-01954,mostly false
+snes-01959,mostly true
+snes-01960,mostly false
+snes-01979,mixture
+snes-01981,mostly false
+snes-01982,mostly true
+snes-01983,false
+snes-01991,mostly false
+snes-01992,mostly false
+snes-01993,mostly false
+snes-02014,mostly false
+snes-02015,false
+snes-02017,mostly false
+snes-02020,mixture
+snes-02022,mostly true
+snes-02029,mostly false
+snes-02049,mostly false
+snes-02053,mixture
+snes-02063,mostly true
+snes-02066,mixture
+snes-02067,mostly true
+snes-02075,mostly true
+snes-02079,false
+snes-02084,mostly false
+snes-02088,mostly true
+snes-02090,mostly true
+snes-02092,mixture
+snes-02094,mostly true
+snes-02097,mostly true
+snes-02104,mixture
+snes-02137,mostly true
+snes-02139,mostly false
+snes-02144,mostly false
+snes-02172,mostly false
+snes-02176,false
+snes-02180,mostly true
+snes-02187,mostly false
+snes-02191,mostly true
+snes-02197,mostly false
+snes-02204,mostly false
+snes-02205,mostly true
+snes-02207,mostly false
+snes-02209,mostly true
+snes-02212,false
+snes-02213,mostly false
+snes-02214,mostly true
+snes-02217,mostly false
+snes-02223,false
+snes-02234,mixture
+snes-02237,mostly false
+snes-02245,mostly false
+snes-02253,mostly false
+snes-02256,mostly true
+snes-02258,mostly true
+snes-02259,mostly false
+snes-02263,mostly true
+snes-02272,mostly false
+snes-02290,mostly false
+snes-02294,mostly true
+snes-02301,mostly false
+snes-02303,mostly false
+snes-02304,mostly false
+snes-02305,mostly false
+snes-02307,mixture
+snes-02317,mostly true
+snes-02335,mostly true
+snes-02342,mostly true
+snes-02354,mostly true
+snes-02357,mostly false
+snes-02362,mostly false
+snes-02366,false
+snes-02369,mostly false
+snes-02372,mostly false
+snes-02374,mostly true
+snes-02393,mostly true
+snes-02395,mostly false
+snes-02398,mixture
+snes-02399,mostly true
+snes-02411,mostly false
+snes-02421,mostly true
+snes-02425,mostly false
+snes-02431,mostly false
+snes-02433,mostly true
+snes-02438,mostly false
+snes-02458,mostly false
+snes-02463,false
+snes-02470,mostly false
+snes-02472,mostly false
+snes-02474,mixture
+snes-02481,mostly true
+snes-02494,false
+snes-02509,mostly false
+snes-02515,mostly true
+snes-02518,mostly false
+snes-02519,mostly false
+snes-02522,mostly false
+snes-02523,mostly false
+snes-02532,mostly true
+snes-02536,mostly true
+snes-02537,mostly true
+snes-02544,mostly false
+snes-02548,mostly false
+snes-02557,mostly true
+snes-02562,false
+snes-02576,mostly true
+snes-02585,mostly false
+snes-02588,mostly false
+snes-02594,mostly false
+snes-02596,mostly false
+snes-02601,false
+snes-02611,mostly true
+snes-02625,mostly false
+snes-02635,mostly true
+snes-02636,mostly true
+snes-02642,mostly false
+snes-02643,mixture
+snes-02646,mostly false
+snes-02647,mostly false
+snes-02658,mostly true
+snes-02660,false
+snes-02666,false
+snes-02671,mostly false
+snes-02674,mostly false
+snes-02688,false
+snes-02691,mostly false
+snes-02708,mostly true
+snes-02709,mostly true
+snes-02716,mostly false
+snes-02719,mostly true
+snes-02720,false
+snes-02727,mostly true
+snes-02732,mostly false
+snes-02737,mostly false
+snes-02749,mostly false
+snes-02751,mostly false
+snes-02753,mostly false
+snes-02767,mixture
+snes-02771,false
+snes-02790,mostly false
+snes-02795,mostly false
+snes-02797,mostly false
+snes-02806,mixture
+snes-02813,mostly false
+snes-02815,false
+snes-02817,false
+snes-02842,mostly false
+snes-02852,mostly true
+snes-02853,mostly true
+snes-02854,mostly true
+snes-02857,mostly true
+snes-02858,mostly true
+snes-02864,mostly false
+snes-02872,mostly false
+snes-02877,mostly true
+snes-02888,mostly false
+snes-02890,mostly false
+snes-02895,mostly false
+snes-02896,mixture
+snes-02901,mostly false
+snes-02909,mostly true
+snes-02915,mostly false
+snes-02927,mostly false
+snes-02942,mostly false
+snes-02949,mostly false
+snes-02967,mostly true
+snes-02978,mostly false
+snes-02980,mostly false
+snes-02981,mostly true
+snes-02984,mixture
+snes-02988,mostly false
+snes-03014,mostly false
+snes-03015,mostly false
+snes-03016,mostly false
+snes-03035,mostly false
+snes-03040,mixture
+snes-03053,mixture
+snes-03057,mostly true
+snes-03068,mostly false
+snes-03071,mostly false
+snes-03079,mostly false
+snes-03088,mostly false
+snes-03116,mostly false
+snes-03118,mostly false
+snes-03122,mostly true
+snes-03124,mostly true
+snes-03128,mostly true
+snes-03162,mostly false
+snes-03166,false
+snes-03182,mixture
+snes-03191,mostly false
+snes-03198,mostly false
+snes-03200,mostly false
+snes-03203,mostly false
+snes-03215,mostly true
+snes-03217,mostly true
+snes-03240,false
+snes-03241,false
+snes-03245,mostly true
+snes-03255,mostly true
+snes-03259,mostly false
+snes-03261,mostly true
+snes-03262,false
+snes-03266,mostly false
+snes-03268,false
+snes-03270,mixture
+snes-03272,mostly true
+snes-03281,mostly true
+snes-03282,mostly true
+snes-03292,mostly false
+snes-03294,false
+snes-03298,mostly false
+snes-03300,false
+snes-03311,false
+snes-03312,mostly false
+snes-03323,false
+snes-03328,mostly false
+snes-03333,mostly false
+snes-03336,mostly false
+snes-03362,false
+snes-03368,false
+snes-03375,false
+snes-03379,mostly false
+snes-03387,mixture
+snes-03389,mostly true
+snes-03395,mostly true
+snes-03396,mostly false
+snes-03401,false
+snes-03403,mostly false
+snes-03416,mostly true
+snes-03418,mostly false
+snes-03420,mostly false
+snes-03426,mostly false
+snes-03427,mostly true
+snes-03428,mostly false
+snes-03430,mostly false
+snes-03437,mostly false
+snes-03443,mostly false
+snes-03444,mostly false
+snes-03446,mostly false
+snes-03449,mostly true
+snes-03484,false
+snes-03490,mostly false
+snes-03496,mostly true
+snes-03501,mostly true
+snes-03503,mostly true
+snes-03512,mostly false
+snes-03522,mostly false
+snes-03533,mostly false
+snes-03540,false
+snes-03542,false
+snes-03561,mixture
+snes-03562,false
+snes-03568,mostly false
+snes-03577,mostly false
+snes-03578,false
+snes-03581,mostly false
+snes-03590,mostly false
+snes-03601,mostly false
+snes-03603,false
+snes-03612,mostly false
+snes-03614,mostly false
+snes-03625,false
+snes-03632,mostly false
+snes-03636,mostly false
+snes-03643,mostly false
+snes-03651,mostly false
+snes-03657,mixture
+snes-03662,mostly false
+snes-03665,mixture
+snes-03678,mostly true
+snes-03686,mostly true
+snes-03688,mostly true
+snes-03695,false
+snes-03701,mostly true
+snes-03721,mostly false
+snes-03722,mostly false
+snes-03729,mostly false
+snes-03731,true
+snes-03748,mostly false
+snes-03749,mixture
+snes-03753,mostly false
+snes-03775,mixture
+snes-03776,mostly false
+snes-03779,mostly true
+snes-03785,mixture
+snes-03787,mostly true
+snes-03796,mixture
+snes-03808,mostly true
+snes-03811,mostly false
+snes-03815,mostly false
+snes-03817,mostly false
+snes-03839,mostly false
+snes-03842,mostly true
+snes-03846,mostly true
+snes-03850,mostly true
+snes-03869,mostly true
+snes-03881,mostly false
+snes-03884,false
+snes-03898,mostly true
+snes-03901,false
+snes-03903,mostly false
+snes-03907,mostly false
+snes-03908,mostly false
+snes-03911,mostly false
+snes-03920,mixture
+snes-03927,mostly false
+snes-03932,false
+snes-03937,false
+snes-03945,false
+snes-03946,mixture
+snes-03948,mostly false
+snes-03950,mixture
+snes-03951,mostly false
+snes-03964,mostly false
+snes-03966,mixture
+snes-03969,mostly false
+snes-03971,mostly false
+snes-03976,mostly false
+snes-03978,mostly false
+snes-03989,mostly true
+snes-03990,mostly false
+snes-04014,false
+snes-04028,mostly false
+snes-04033,mostly false
+snes-04034,false
+snes-04036,false
+snes-04087,mostly true
+snes-04095,mostly false
+snes-04099,mostly false
+snes-04101,mostly false
+snes-04115,mixture
+snes-04116,mostly false
+snes-04119,mixture
+snes-04121,mostly false
+snes-04122,mostly true
+snes-04125,mostly false
+snes-04129,false
+snes-04149,mostly false
+snes-04150,mostly false
+snes-04157,mostly true
+snes-04164,mostly false
+snes-04167,mostly false
+snes-04171,mostly false
+snes-04177,mostly false
+snes-04181,mixture
+snes-04182,mostly true
+snes-04184,false
+snes-04188,mixture
+snes-04190,mostly true
+snes-04205,mostly false
+snes-04212,false
+snes-04224,false
+snes-04240,mostly true
+snes-04246,false
+snes-04250,mostly false
+snes-04263,mixture
+snes-04265,mostly false
+snes-04274,mostly false
+snes-04275,mixture
+snes-04284,mostly true
+snes-04287,true
+snes-04297,false
+snes-04300,mostly false
+snes-04308,mostly true
+snes-04317,mostly false
+snes-04331,mostly false
+snes-04335,false
+snes-04342,false
+snes-04348,mostly false
+snes-04371,mostly false
+snes-04382,mostly false
+snes-04385,mostly true
+snes-04401,mostly true
+snes-04403,mostly false
+snes-04404,false
+snes-04406,false
+snes-04412,mostly false
+snes-04431,false
+snes-04438,mostly false
+snes-04445,mostly false
+snes-04446,mostly false
+snes-04449,mostly false
+snes-04450,mixture
+snes-04453,mostly false
+snes-04458,mostly false
+snes-04460,mostly false
+snes-04463,mostly false
+snes-04464,mostly true
+snes-04471,mostly false
+snes-04475,mostly false
+snes-04484,mostly false
+snes-04496,mostly false
+snes-04512,mostly false
+snes-04525,true
+snes-04526,mostly false
+snes-04531,mostly true
+snes-04536,mostly false
+snes-04537,mostly false
+snes-04540,mostly true
+snes-04544,mostly true
+snes-04556,mostly false
+snes-04569,false
+snes-04583,mostly false
+snes-04591,mostly false
+snes-04592,mixture
+snes-04597,false
+snes-04607,mostly false
+snes-04611,mostly true
+snes-04619,mixture
+snes-04632,mostly false
+snes-04633,false
+snes-04635,mostly false
+snes-04644,mostly true
+snes-04646,mostly false
+snes-04652,false
+snes-04655,true
+snes-04656,mixture
+snes-04660,mostly true
+snes-04662,mixture
+snes-04666,mixture
+snes-04667,false
+snes-04669,mostly false
+snes-04678,false
+snes-04687,mostly true
+snes-04698,mostly false
+snes-04718,mostly false
+snes-04727,mostly false
+snes-04729,mostly true
+snes-04730,mostly true
+snes-04746,mostly true
+snes-04752,false
+snes-04753,false
+snes-04754,mostly true
+snes-04755,mixture
+snes-04758,mostly false
+snes-04766,mostly false
+snes-04776,false
+snes-04780,false
+snes-04788,mostly false
+snes-04796,mostly true
+snes-04804,false
+snes-04805,false
+snes-04813,mostly false
+snes-04818,mostly false
+snes-04820,mostly true
+snes-04828,mostly false
+snes-04829,mostly false
+snes-04838,false
+snes-04839,mostly false
+snes-04850,mostly true
+snes-04857,mixture
+snes-04863,mostly true
+snes-04871,mostly false
+snes-04876,mostly true
+snes-04878,false
+snes-04879,mostly false
+snes-04884,mostly false
+snes-04887,false
+snes-04895,mostly false
+snes-04897,mostly false
+snes-04904,false
+snes-04909,mostly true
+snes-04914,mixture
+snes-04928,mostly true
+snes-04929,false
+snes-04931,mostly false
+snes-04945,mostly false
+snes-04949,mostly false
+snes-04953,mostly false
+snes-04957,false
+snes-04960,mostly false
+snes-04962,false
+snes-04970,false
+snes-04977,true
+snes-04981,mostly false
+snes-04984,mostly false
+snes-04994,mostly false
+snes-04995,mostly true
+snes-05004,mostly true
+snes-05005,mostly false
+snes-05014,mostly false
+snes-05023,mixture
+snes-05025,mostly false
+snes-05026,mostly true
+snes-05030,mostly true
+snes-05041,mostly true
+snes-05044,mixture
+snes-05048,mostly false
+snes-05052,false
+snes-05059,mostly false
+snes-05060,true
+snes-05085,mostly false
+snes-05086,false
+snes-05095,false
+snes-05098,mostly false
+snes-05104,mostly true
+snes-05107,mixture
+snes-05112,mostly false
+snes-05113,mixture
+snes-05120,mostly true
+snes-05137,mostly true
+snes-05148,false
+snes-05155,mostly false
+snes-05162,mostly true
+snes-05164,mostly true
+snes-05166,false
+snes-05173,mixture
+snes-05174,mostly false
+snes-05179,mostly false
+snes-05185,mostly false
+snes-05200,mixture
+snes-05206,mostly false
+snes-05208,mostly false
+snes-05212,mostly false
+snes-05235,mostly true
+snes-05238,mostly false
+snes-05248,false
+snes-05254,false
+snes-05256,mostly true
+snes-05266,false
+snes-05274,mostly false
+snes-05302,mostly false
+snes-05316,mostly true
+snes-05322,false
+snes-05331,mostly true
+snes-05350,false
+snes-05370,mostly true
+snes-05371,mostly true
+snes-05373,mostly false
+snes-05374,mostly true
+snes-05380,mostly false
+snes-05381,mostly false
+snes-05385,false
+snes-05389,mostly false
+snes-05398,mostly true
+snes-05399,mostly false
+snes-05401,mostly true
+snes-05404,mostly false
+snes-05413,mostly false
+snes-05420,mostly false
+snes-05425,mostly false
+snes-05431,mostly true
+snes-05432,mostly false
+snes-05437,false
+snes-05439,mostly false
+snes-05451,mostly true
+snes-05452,false
+snes-05456,mostly true
+snes-05457,mostly false
+snes-05463,mostly false
+snes-05465,mostly false
+snes-05471,false
+snes-05478,mostly false
+snes-05479,false
+snes-05486,mostly true
+snes-05490,mostly true
+snes-05491,false
+snes-05499,mostly false
+snes-05505,mostly false
+snes-05511,mostly true
+snes-05513,mostly false
+snes-05515,mostly false
+snes-05517,false
+snes-05519,mostly false
+snes-05525,mixture
+snes-05526,mostly true
+snes-05529,mostly true
+snes-05538,false
+snes-05542,mostly true
+snes-05549,mixture
+snes-05555,mixture
+snes-05575,mixture
+snes-05583,mostly true
+snes-05600,mostly false
+snes-05607,mostly true
+snes-05614,mostly false
+snes-05615,mostly true
+snes-05617,true
+snes-05621,mostly false
+snes-05625,mostly true
+snes-05627,mostly true
+snes-05642,mostly false
+snes-05651,mostly true
+snes-05674,mixture
+snes-05681,mostly true
+snes-05685,mostly false
+snes-05687,mixture
+snes-05695,mostly false
+snes-05701,false
+snes-05706,false
+snes-05708,false
+snes-05710,mostly true
+snes-05711,false
+snes-05717,false
+snes-05720,mostly true
+snes-05726,mostly true
+snes-05727,mostly true
+snes-05731,false
+snes-05732,mostly true
+snes-05733,mostly false
+snes-05746,mostly false
+snes-05756,mostly false
+snes-05764,mostly false
+snes-05770,mostly false
+snes-05775,mostly false
+snes-05794,mostly true
+snes-05796,mostly true
+snes-05797,mostly false
+snes-05801,mostly true
+snes-05813,mostly true
+snes-05819,mostly false
+snes-05822,mixture
+snes-05823,mostly false
+snes-05825,mostly true
+snes-05836,mostly true
+snes-05840,mostly true
+snes-05865,mostly true
+snes-05870,mostly false
+snes-05875,mostly false
+snes-05880,mixture
+snes-05882,mostly false
+snes-05895,mostly true
+snes-05896,mostly true
+snes-05899,mostly true
+snes-05914,mostly true
+snes-05922,mostly true
+snes-05937,mostly true
+snes-05939,false
+snes-05940,mostly false
+snes-05948,mostly false
+snes-05955,mostly true
+snes-05956,mixture
+snes-05958,mixture
+snes-05962,mostly false
+snes-05964,mostly true
+snes-05966,mostly true
+snes-05974,mostly false
+snes-05976,mostly true
+snes-05978,false
+snes-05982,mostly false
+snes-05989,mostly true
+snes-05996,mostly true
+snes-06010,false
+snes-06013,mostly false
+snes-06014,false
+snes-06015,mostly false
+snes-06024,true
+snes-06041,mostly true
+snes-06047,mostly true
+snes-06054,mostly false
+snes-06062,false
+snes-06068,mostly false
+snes-06078,mostly false
+snes-06082,mostly true
+snes-06083,mostly false
+snes-06097,mostly false
+snes-06106,mostly false
+snes-06109,mostly true
+snes-06111,mostly false
+snes-06121,mostly false
+snes-06122,mostly false
+snes-06131,mostly true
+snes-06133,true
+snes-06150,mostly false
+snes-06167,mostly false
+snes-06171,mostly true
+snes-06172,mostly false
+snes-06175,mostly true
+snes-06181,mostly true
+snes-06188,mostly false
+snes-06203,mostly true
+snes-06208,false
+snes-06217,mostly true
+snes-06218,mostly true
+snes-06219,mixture
+snes-06224,mixture
+snes-06232,mostly false
+snes-06238,mixture
+snes-06241,mostly false
+snes-06245,mostly false
+snes-06246,mostly true
+snes-06247,mostly true
+snes-06261,mixture
+snes-06263,mostly false
+snes-06264,mostly true
+snes-06265,mostly false
+snes-06266,mostly true
+snes-06276,false
+snes-06292,mostly true
+snes-06294,false
+snes-06300,mostly false
+snes-06317,mixture
+snes-06319,mostly true
+snes-06325,mostly false
+snes-06328,mostly false
+snes-06333,mostly false
+snes-06334,mostly false
+snes-06335,mostly false
+snes-06341,mostly true
+snes-06343,mostly false
+snes-06352,mostly false
+snes-06355,mostly false
+snes-06361,mostly true
+snes-06376,mostly false
+snes-06398,false
+snes-06403,mixture
+snes-06404,mostly false
+snes-06416,mostly false
+snes-06430,false
+snes-06445,mostly true
+snes-06446,mostly true
+snes-06448,mostly true
+snes-06453,mostly true
+snes-06454,false
